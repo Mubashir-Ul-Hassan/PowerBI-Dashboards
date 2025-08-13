@@ -7,13 +7,15 @@ Each project is organized in its own folder, containing the `.pbix` file, datase
 
 ## 📂 Project List
 
-1. **Sales Performance Dashboard**
+1. **Blinkit Dashboard**
 
-2. **Customer Churn Analysis**
+2. **Chocolate Sales Dashboard**
 
-3. **Marketing Campaign Insights**
+3. **Movies Dashboard**
 
-4. **Financial Performance Dashboard**
+4. **Nike Dashboard**
+
+5. **Financial Sales Dashboard**
 
 > 💡 *Each folder contains a .pbix file with pdf*
 
